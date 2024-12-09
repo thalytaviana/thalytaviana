@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center">Estudante de Engenharia de Software no Inteli, buscando sempre impactar pessoas através da tecnologia</p>
+<p align="center">Estudante de Engenharia de Software no Inteli, buscando sempre impactar pessoas através da tecnologia.</p>
 
 ---
 
