@@ -1,8 +1,14 @@
-## Olá! Eu sou a Thalyta 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-- 🔭 Estudante de Engenharia de Software  
-- 📫 Contate-me pelo e-mail: **thalytaviana00@gmail.com**  
-- 😄 Pronomes: ela/dela  
+#
+<p align="center">Estudante de Engenharia de Software no Inteli, buscando sempre impactar pessoas através da tecnologia
+  
+#
+
 
 <div>
   <a href="https://www.linkedin.com/in/thalyta-viana/" target="_blank">
