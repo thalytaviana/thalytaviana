@@ -4,20 +4,21 @@
   </a>
 </div>
 
-#
-<p align="center">Estudante de Engenharia de Software no Inteli, buscando sempre impactar pessoas através da tecnologia
-  
-#
+---
 
+<p align="center">Estudante de Engenharia de Software no Inteli, buscando sempre impactar pessoas através da tecnologia</p>
 
-<div>
+---
+
+<div align="center">
   <a href="https://www.linkedin.com/in/thalyta-viana/" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalytaviana&hide=stars,prs&show_icons=true&theme=jolly" alt="Estatísticas do GitHub da Thalyta"/>
   </a>
   <a href="https://github.com/thalytaviana" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalytaviana&theme=jolly&layout=compact" alt="Linguagens mais utilizadas pela Thalyta"/>
   </a>
+</div>
 
-![Snake animation](https://github.com/thalytaviana/thalytaviana/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <img src="https://github.com/thalytaviana/thalytaviana/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
